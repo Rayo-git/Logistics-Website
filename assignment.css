@@ -1,0 +1,221 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.blue{
+    background-color: rgb(12, 13, 75);
+    color: white;
+    padding: 25px;
+}
+.try{
+    background-color: white;
+    color: rgb(2, 2, 36);
+    border-radius: 5px;
+    padding: 8px 30px 10px 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 20px;
+    font-weight: bold;
+}
+.first{
+    display: flex;
+    background-color: rgb(12, 13, 75);
+    width: 1308px;
+    
+}
+    
+span{ 
+    font-size: 25px;
+    font-weight: bold;
+    margin: 15px 160px 0px 120px;
+}
+
+.second{
+    display: flex;
+    margin: 120px 0px 100px 120px;
+}
+.second h1{
+    font-size: 40px;
+}
+.mini{
+    display: flex;
+    margin: 40px 0px 40px 0px;
+}
+.mini button{
+    background-color: white;
+    color: rgb(12, 13, 75);
+    border-radius: 5px;
+    padding: 8px 30px 10px 30px;
+    border: none;
+    font-weight: bolder;
+    margin-right: 40px;
+}
+.second ul{
+    display: flex;
+    list-style: none;
+    justify-self: left;
+    padding: 0px;
+}
+.second ul li{
+    margin-right: 20px;
+}
+
+.features{
+    padding: 50px 120px 50px 120px;
+}
+
+.features h1{
+    font-size: 30px;
+    text-align: center;
+}
+.text{
+    text-align: center;
+    margin: -20px 350px 50px 350px;
+}
+.box1{
+    width: 250px;
+    border: 1px gainsboro solid;
+    padding: 45px 35px 10px 35px;
+}
+.slide1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.slide2{
+    display: flex;
+    justify-content: space-between;
+}
+.box2 p{
+    width: 300px;
+}
+.box2 button{
+    color: rgb(12, 13, 75);
+    border-radius: 5px;
+    padding: 8px 30px 10px 30px;
+    border-width: 2px;
+    font-weight: bolder;
+    margin-right: 40px;
+}
+.pink{
+    background-color: rgb(255, 213, 234);
+}
+.pink button{
+    color: hotpink;
+    background-color: rgb(255, 213, 234);
+    border-color: hotpink;
+}
+.box2{
+    padding: 20px 0px 40px 35px;
+    width: 500px;
+}
+.blue1{
+    background-color: rgb(176, 176, 245);
+}
+.blue1 button{
+    color: blue;
+    background-color: rgb(176, 176, 245);
+    border-color: blue;
+}
+.flex1{
+    display: flex;
+    justify-content: space-between;
+}
+.texts{
+    text-align: center;
+}
+.texts h4{
+    color: rgb(176, 176, 245);
+}
+.texts h1{
+    font-size: 35px;
+    margin-top: -10px;
+}
+.texts p{
+    margin: -20px 330px 50px 330px;
+}
+.big{
+    padding: 50px 120px 50px 120px;
+}
+.flex1 h5{
+    color: rgb(176, 176, 245);
+}
+.flex1 h3{
+    margin: -10px 0px -8px;
+}
+.flex1 p{
+    width: 450px;
+}
+.text2{
+    padding-top: 60px;
+}
+.flex2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex3{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li::before {
+    content: ".";
+    color: blue;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline-block;
+    width: 10px;
+    margin-left: -30px;
+}
+.flex3 button{
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+    padding: 8px 30px 10px 30px;
+    font-weight: bolder;
+    margin-right: 40px;
+    border-color: blue;
+}
+.boxs{
+    border-radius: 10px;
+    padding: 10px 50px 40px 40px;
+    box-shadow: 2px 2px rgb(176, 176, 245);
+}
+.footer{
+    padding: 50px 120px 50px 120px;
+    background-color: rgb(12, 13, 75);
+}
+.text3{
+    color: white;
+}
+.text3 h4{
+    color: rgb(255, 208, 0);
+}
+.middle{
+    background-color: rgb(12, 13, 75);
+    color: white;
+}
+.middle ul li::before {
+    content: ".";
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline-block;
+    width: 10px;
+    margin-left: -30px;
+}
+.middle button{
+    background-color: rgb(12, 13, 75);
+    color: white;
+    border-color: white;
+}
